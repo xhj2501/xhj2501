@@ -1,20 +1,33 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2015%20mins-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
-> 📦 995.9 kB Used in GitHub's Storage 
- > 
-> 🏆 36 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 25 Private Repositories 
- > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Other                    16 hrs 7 mins       ██████████████░░░░░░░░░░░   54.01 % 
+Python                   10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.54 % 
+C                        1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+CMake                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+
+🔥 Editors: 
+Chrome                   14 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.14 % 
+PyCharm                  10 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.98 % 
+CLion                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Edge                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+
+💻 Operating System: 
+Windows                  29 hrs 39 mins      █████████████████████████   99.31 % 
+Linux                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -32,7 +45,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:38:01 UTC
+ Last Updated on 15/06/2024 18:39:54 UTC
 <!--END_SECTION:waka-->
 
 
