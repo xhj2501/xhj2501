@@ -11,14 +11,13 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   30 mins             ██████████████████░░░░░░░   73.75 % 
-Edge                     10 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -38,7 +37,7 @@ Tcl                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 18:42:27 UTC
+ Last Updated on 15/08/2024 18:42:45 UTC
 <!--END_SECTION:waka-->
 
 
