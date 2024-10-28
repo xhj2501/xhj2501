@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-889%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -11,15 +11,15 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    26 hrs 22 mins      █████████████████████████   99.86 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    28 hrs 27 mins      █████████████████████████   99.87 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 24 mins      █████████████████████████   100.00 % 
+Chrome                   28 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -39,6 +39,6 @@ Tcl                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2024 18:43:29 UTC
+ Last Updated on 28/10/2024 18:46:51 UTC
 <!--END_SECTION:waka-->
 
