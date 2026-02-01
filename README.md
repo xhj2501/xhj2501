@@ -1,32 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C378%20hrs%2033%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.20%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Other                    32 hrs 13 mins      █████████████████████░░░░   85.65 % 
-Python                   5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-Chrome                   27 hrs 12 mins      ██████████████████░░░░░░░   72.30 % 
-PyCharm                  5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Edge                     4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Word                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Excel                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-💻 Operating System: 
-Windows                  37 hrs 37 mins      █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -45,6 +20,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:57:53 UTC
+ Last Updated on 01/02/2026 19:02:15 UTC
 <!--END_SECTION:waka-->
 
