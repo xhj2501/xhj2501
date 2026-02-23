@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C430%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C435%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.20%20million%20lines%20of%20code-blue?style=flat)
 
@@ -11,14 +11,14 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    15 hrs 23 mins      █████████████████████████   100.00 % 
+Other                    16 hrs 20 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 14 mins      █████████████████████████   99.09 % 
-Edge                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Chrome                   16 hrs 17 mins      █████████████████████████   99.72 % 
+Edge                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -38,6 +38,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 19:02:43 UTC
+ Last Updated on 23/02/2026 19:40:24 UTC
 <!--END_SECTION:waka-->
 
