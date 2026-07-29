@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C144%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.44%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,41 +13,41 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    36 hrs 9 mins       ██████████████████████░░░   88.34 % 
-Markdown                 2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-textmate                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    36 hrs 8 mins       █████████████████████░░░░   84.27 % 
+Markdown                 5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+textmate                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Chrome                   33 hrs 59 mins      █████████████████████░░░░   83.05 % 
-PyCharm                  2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Cursor                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-WindowsTerminalHost      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-MicrosoftOneNote         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Chrome                   32 hrs 2 mins       ███████████████████░░░░░░   74.71 % 
+WindowsTerminalHost      3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Cursor                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+MicrosoftOneNote         1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+PyCharm                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Windows                  40 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 37 mins (11.32%)
+⏱ AI Coding Time: 8 hrs 20 mins (19.46%)
 
-✍️ 4 lines written by AI, 55 lines written by hand (6.78% AI-written)
+✍️ 4 lines written by AI, 12 lines written by hand (25.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 57 AI Prompts
+🧠 17 AI Sessions, 100 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.78% of written lines came from AI
-📄 Detailed Prompter — average 521 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 93.22% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
+📝 Concise Prompter — average 423 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 75.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -67,6 +67,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:05:52 UTC
+ Last Updated on 29/07/2026 19:56:33 UTC
 <!--END_SECTION:waka-->
 
