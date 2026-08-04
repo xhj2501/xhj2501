@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.45%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.58%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,27 +13,25 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    39 hrs 57 mins      ███████████████████░░░░░░   77.53 % 
-Markdown                 10 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-textmate                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    38 hrs 19 mins      ██████████████████░░░░░░░   71.87 % 
+Markdown                 14 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 38 mins      ███████████████░░░░░░░░░░   59.47 % 
-WindowsTerminalHost      9 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-MicrosoftOneNote         4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Cursor                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Unknown Editor           2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Chrome                   24 hrs 48 mins      ████████████░░░░░░░░░░░░░   46.51 % 
+WindowsTerminalHost      12 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+MicrosoftOneNote         7 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Unknown Editor           4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Cursor                   2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Windows                  51 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  53 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 6 mins (33.18%)
+⏱ AI Coding Time: 22 hrs 29 mins (42.18%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -41,12 +39,12 @@ Windows                  51 hrs 31 mins      ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 205 AI Prompts
+🧠 39 AI Sessions, 266 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,207 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,359 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -67,6 +65,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:50:27 UTC
+ Last Updated on 04/08/2026 20:17:12 UTC
 <!--END_SECTION:waka-->
 
