@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.12%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,45 +13,43 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 26 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.73 % 
-Other                    20 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.31 % 
-Text                     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JSON                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Python                   2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    25 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.17 % 
+Markdown                 24 hrs 57 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
+Text                     3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Image (png)              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Python                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Unknown Editor           34 hrs 8 mins       ███████████████░░░░░░░░░░   59.68 % 
-Chrome                   7 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Cursor                   5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-MicrosoftOneNote         4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-WindowsTerminalHost      3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Unknown Editor           33 hrs 21 mins      ███████████████░░░░░░░░░░   59.20 % 
+Chrome                   11 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Cursor                   3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+MicrosoftOneNote         3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+WindowsTerminalHost      2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 💻 Operating System: 
-Windows                  57 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  56 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 25 mins (75.89%)
+⏱ AI Coding Time: 38 hrs 41 mins (68.66%)
 
-✍️ 7,705 lines written by AI, 319 lines written by hand (96.02% AI-written)
+✍️ 25 lines written by AI, 330 lines written by hand (7.04% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 122 AI Sessions, 407 AI Prompts
+🧠 97 AI Sessions, 282 AI Prompts
 
-Composer                 4,198 lines         ██████████████░░░░░░░░░░░   57.78 % 
-Cursor                   1,957 lines         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-Grok                     1,111 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Grok                     25 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.02% of written lines came from AI
-📝 Concise Prompter — average 453 characters per prompt
+🧑‍💻 Mostly Hands-On — 7.04% of written lines came from AI
+📝 Concise Prompter — average 332 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.88% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -71,6 +69,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:10:59 UTC
+ Last Updated on 19/08/2026 19:06:49 UTC
 <!--END_SECTION:waka-->
 
