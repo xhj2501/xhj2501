@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C277%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.16%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,42 +13,42 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    32 hrs 53 mins      ████████████████░░░░░░░░░   64.81 % 
-Markdown                 14 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Text                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-PowerShell               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Batchfile                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    32 hrs 23 mins      ████████████████░░░░░░░░░   64.73 % 
+Markdown                 13 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Text                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JSON                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Unknown Editor           24 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.39 % 
-Chrome                   22 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
-WindowsTerminalHost      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Cursor                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Edge                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Unknown Editor           24 hrs 23 mins      ████████████░░░░░░░░░░░░░   48.76 % 
+Chrome                   20 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   41.56 % 
+WindowsTerminalHost      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Cursor                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Edge                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Windows                  50 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  50 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 19 mins (49.89%)
+⏱ AI Coding Time: 25 hrs 43 mins (51.4%)
 
-✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 753 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 292,174 Input Tokens, 182,345 Output Tokens
+🔤 758,086 Input Tokens, 62,560 Output Tokens
 
-💵 $4.98 Estimated AI Cost This Week
+💵 $16.98 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 219 AI Prompts
+🧠 101 AI Sessions, 225 AI Prompts
 
-Composer                 5 lines             █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      742 lines           █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,499 characters per prompt
+📝 Concise Prompter — average 391 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -56,11 +56,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ██████████████░░░░░░░░░░░   57.89 % 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Prolog                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-IL Assembly              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   23 repos            ███████████████░░░░░░░░░░   58.97 % 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Prolog                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+IL Assembly              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -70,6 +70,6 @@ IL Assembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:11:57 UTC
+ Last Updated on 10/09/2026 21:12:59 UTC
 <!--END_SECTION:waka-->
 
