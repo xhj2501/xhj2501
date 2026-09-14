@@ -1,9 +1,9 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C295%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-276%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -13,43 +13,43 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    30 hrs 25 mins      ███████████████░░░░░░░░░░   59.16 % 
-Markdown                 14 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Text                     2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Other                    27 hrs 9 mins       ██████████████░░░░░░░░░░░   54.30 % 
+Markdown                 13 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+JavaScript               2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Text                     2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Unknown Editor           23 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
-Chrome                   20 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.96 % 
-Codex Vscode             2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-WindowsTerminalHost      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Cursor                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Unknown Editor           23 hrs 1 min        ████████████░░░░░░░░░░░░░   46.03 % 
+Chrome                   17 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.12 % 
+Codex Vscode             5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+WindowsTerminalHost      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Excel                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Windows                  51 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  50 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 18 mins (53.09%)
+⏱ AI Coding Time: 28 hrs 34 mins (57.12%)
 
-✍️ 2,215 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,045 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,751,032 Input Tokens, 257,167 Output Tokens
+🔤 7,944,918 Input Tokens, 550,017 Output Tokens
 
-💵 $58.62 Estimated AI Cost This Week
+💵 $84.69 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 312 AI Prompts
+🧠 129 AI Sessions, 391 AI Prompts
 
-GPT                      2,204 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,034 lines         █████████████████████████   99.54 % 
+Composer                 14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,528 characters per prompt
+📚 Verbose Prompter — average 5,354 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -71,6 +71,6 @@ IL Assembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:08:05 UTC
+ Last Updated on 14/09/2026 22:02:51 UTC
 <!--END_SECTION:waka-->
 
