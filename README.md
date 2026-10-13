@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C382%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-410%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.00%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,45 +13,44 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    31 hrs 39 mins      ██████████████████░░░░░░░   71.74 % 
-Markdown                 6 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-CSV                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Other                    31 hrs 44 mins      ██████████████████░░░░░░░   73.33 % 
+Markdown                 7 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+CSV                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Chrome                   14 hrs              ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Notion                   9 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Unknown Editor           8 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Cursor                   5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Agent                    4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Chrome                   15 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.24 % 
+Unknown Editor           11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Notion                   7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Cursor                   5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Agent                    1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 💻 Operating System: 
-Windows                  44 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  43 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 37 mins (58.05%)
+⏱ AI Coding Time: 23 hrs 53 mins (55.19%)
 
-✍️ 271 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,820,980 Input Tokens, 507,163 Output Tokens
+🔤 750,964 Input Tokens, 60,240 Output Tokens
 
-💵 $121.63 Estimated AI Cost This Week
+💵 $8.46 Estimated AI Cost This Week
 
-🧠 104 AI Sessions, 487 AI Prompts
+🧠 78 AI Sessions, 317 AI Prompts
 
-Grok                     261 lines           ████████████████████████░   96.31 % 
-Codex-Vscode             6 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Codex-Vscode             6 lines             ███████████████░░░░░░░░░░   60.00 % 
+GPT                      4 lines             ██████████░░░░░░░░░░░░░░░   40.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,373 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 576 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -72,6 +71,6 @@ IL Assembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:58:05 UTC
+ Last Updated on 13/10/2026 23:06:08 UTC
 <!--END_SECTION:waka-->
 
