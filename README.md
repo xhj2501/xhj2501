@@ -1,11 +1,11 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-418%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-423%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.10%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,27 +13,27 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    27 hrs 3 mins       ████████████████░░░░░░░░░   64.40 % 
-Markdown                 9 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-CSV                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Text                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Python                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Other                    28 hrs 52 mins      █████████████████░░░░░░░░   68.11 % 
+Markdown                 9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Text                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+CSV                      49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-Unknown Editor           13 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Chrome                   12 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Notion                   9 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Cursor                   4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Chrome                   13 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   32.61 % 
+Unknown Editor           12 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Notion                   11 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Cursor                   4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  42 hrs              █████████████████████████   100.00 % 
+Windows                  42 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 7 mins (57.45%)
+⏱ AI Coding Time: 23 hrs 32 mins (55.51%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -41,13 +41,13 @@ Windows                  42 hrs              ███████████�
 
 💵 $130.69 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 262 AI Prompts
+🧠 74 AI Sessions, 226 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 521 characters per prompt
+📄 Detailed Prompter — average 717 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -69,6 +69,6 @@ IL Assembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:44:18 UTC
+ Last Updated on 16/10/2026 21:38:24 UTC
 <!--END_SECTION:waka-->
 
