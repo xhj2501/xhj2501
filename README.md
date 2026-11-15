@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-533%20hrs%2047%20mins-blue?style=flat)
 
@@ -13,41 +13,42 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    24 hrs 48 mins      █████████████████░░░░░░░░   68.68 % 
-Markdown                 4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-TeX                      2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Text                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Python                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    21 hrs 30 mins      ████████████████░░░░░░░░░   64.24 % 
+Markdown                 3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+TeX                      2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Python                   2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Text                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Unknown Editor           17 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.62 % 
-Cursor                   11 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.48 % 
-Chrome                   6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Edge                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Unknown Editor           15 hrs 43 mins      ████████████░░░░░░░░░░░░░   46.98 % 
+Cursor                   11 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   34.11 % 
+Chrome                   5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Edge                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+MicrosoftWord            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  36 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 12 mins (72.57%)
+⏱ AI Coding Time: 24 hrs 4 mins (71.91%)
 
-✍️ 290 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 148 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,120,291 Input Tokens, 125,394 Output Tokens
+🔤 4,928,798 Input Tokens, 159,022 Output Tokens
 
-💵 $69.79 Estimated AI Cost This Week
+💵 $82.42 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 435 AI Prompts
+🧠 70 AI Sessions, 409 AI Prompts
 
-Grok                     148 lines           █████████████░░░░░░░░░░░░   51.03 % 
-GPT                      142 lines           ████████████░░░░░░░░░░░░░   48.97 % 
+Grok                     148 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 512 characters per prompt
+📄 Detailed Prompter — average 519 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -69,6 +70,6 @@ IL Assembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 22:44:09 UTC
+ Last Updated on 15/11/2026 23:09:03 UTC
 <!--END_SECTION:waka-->
 
