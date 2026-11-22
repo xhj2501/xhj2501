@@ -13,44 +13,44 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    21 hrs 24 mins      ███████████████░░░░░░░░░░   58.70 % 
-TeX                      7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Text                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Other                    20 hrs 55 mins      ███████████████░░░░░░░░░░   58.77 % 
+TeX                      7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Python                   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Text                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Unknown Editor           20 hrs 43 mins      ██████████████░░░░░░░░░░░   56.82 % 
-Chrome                   8 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Cursor                   6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Edge                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-MicrosoftWord            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Unknown Editor           20 hrs 38 mins      ██████████████░░░░░░░░░░░   57.93 % 
+Chrome                   8 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Cursor                   6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Edge                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  36 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 55 mins (49.13%)
+⏱ AI Coding Time: 17 hrs 18 mins (48.58%)
 
-✍️ 420 lines written by AI, 4 lines written by hand (99.06% AI-written)
+✍️ 170 lines written by AI, 4 lines written by hand (97.7% AI-written)
 
-🔤 3,062,459 Input Tokens, 118,532 Output Tokens
+🔤 1,550,476 Input Tokens, 38,687 Output Tokens
 
-💵 $86.88 Estimated AI Cost This Week
+💵 $17.09 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 288 AI Prompts
+🧠 59 AI Sessions, 280 AI Prompts
 
-GPT                      250 lines           ███████████████░░░░░░░░░░   59.10 % 
-Grok                     173 lines           ██████████░░░░░░░░░░░░░░░   40.90 % 
+Grok                     173 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📄 Detailed Prompter — average 724 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
+🤖 AI-Driven — 97.7% of written lines came from AI
+📄 Detailed Prompter — average 707 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -70,6 +70,6 @@ IL Assembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xhj2501/xhj2501/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:35:22 UTC
+ Last Updated on 22/11/2026 23:49:46 UTC
 <!--END_SECTION:waka-->
 
